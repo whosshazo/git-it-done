@@ -1,7 +1,7 @@
 var issueContainerEl = document.querySelector("#issues-container");
 var limitWarningEl = document.querySelector("#limit-warning");
 var repoNameEl = document.querySelector("#repo-name");
-var queryString = document.location.search;
+
 
 
 var getRepoName = function() {
